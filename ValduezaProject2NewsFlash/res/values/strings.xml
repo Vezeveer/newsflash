@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">News Flash</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="txt_page1">First</string>
+    <string name="txt_page2">second</string>
+    <string name="txt_page1_content">Abraham Lincoln was an American statesman and lawyer who served as the 16th president of the United States from 1861 until his assassination in 1865. Lincoln led the nation through the American Civil War, the country\'s greatest moral, cultural, constitutional, and political crisis.</string>
+    <string name="txt_page2_content">Franklin Delano Roosevelt, often referred to by his initials FDR, was an American politician who served as the 32nd president of the United States from 1933 until his death in 1945.</string>
+    <string name="title_activity_article">News Flash</string>
+
+</resources>
